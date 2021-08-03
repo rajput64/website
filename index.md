@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+takeover
 
 You can use the [editor on GitHub](https://github.com/rajput64/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+hello
 ### Header 3
 
 - Bulleted
